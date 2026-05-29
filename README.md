@@ -8,9 +8,7 @@ Does rural cultural capital improve household livelihood resilience, and how doe
 
 ## Data
 
-The analysis is based on CFPS panel data across multiple years, including household-level indicators related to livelihood resilience, rural cultural resources, demographic characteristics, and regional controls.
-
-> Note: The dataset is used for academic research. Sensitive or restricted data may be excluded from the public repository.
+The analysis is based on CFPS panel data across 12 years, including household-level indicators related to livelihood resilience, rural cultural resources, demographic characteristics, and regional controls.
 
 ## Methodology
 
